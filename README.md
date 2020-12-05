@@ -9,7 +9,7 @@
 
 ![2](https://user-images.githubusercontent.com/29003588/101246426-9f0bd500-3756-11eb-838e-3585220cec10.png)
 
-- ユーザー新規作成画面(http://133.125.50.61:3000#/tusers/new)
+- ユーザー新規作成画面(http://XXX.XXX.XXX.XXX:3000#/tusers/new)
 
 ![3](https://user-images.githubusercontent.com/29003588/101246437-ab902d80-3756-11eb-8f3c-10b400879cee.png)
 
